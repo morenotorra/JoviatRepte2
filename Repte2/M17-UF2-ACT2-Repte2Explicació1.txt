@@ -1,0 +1,14 @@
+CLASSE WALKER:
+
+És usada per crear intel·ligència artificial.  
+En el codi d’exemple hi ha una classe principal i la classe Walker, la qual consta d’un constructor i un nombre aleatori de l’1 al 4. Depenent del nombre aquest dibuixa en positiu o negatiu direcció a la variable X o a la variable Y. 
+D’aquesta manera el programa fa ús d’aquesta intel·ligència artificial i dibuixa línies aleatòriament. 
+
+CLASSE PVECTOR:
+
+Crea un vector de mides X i Y que són tipus float i aleshores té un constructor amb aquestes dues variables. 
+Pot tenir diversos mètodes per sumar, restar, dividir o multiplicar els vectors.
+En aquest exemple el mètode add() hi entra com a paràmetre el vector de tipus PVector i hi suma un vector extern al vector d’aquest objecte.  
+
+
+
